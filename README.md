@@ -21,7 +21,7 @@
  #Backend
  Spring boot, Java SE 17 ve Mysql. Spring boot proje bağımlılıkları pom.xml mevcuttur.
  
-  ![DIŞ KAYNAK RESİM](https://imgur.com/gallery/WO9ASfo)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/WO9ASfo"  ><a href="//imgur.com/a/WO9ASfo">Backend</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
   Mysql bağlantıları için terminal açıp create database todolist yazın.
 
