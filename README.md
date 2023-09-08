@@ -9,7 +9,7 @@
  #Fronted
  React js kullanıldı, css kütüphanesi olarak bootsrap5'den yararlanıldı.
  
- ![DIŞ KAYNAK RESİM](https://imgur.com/gallery/oXDhS1f)
+![GitHub Images](./img/frontend.png)
 
  Frontend Ayaklandırmak için 
  1-NodeJs yüklemelisiniz ve Npm yüklemelisiniz.
@@ -21,7 +21,7 @@
  #Backend
  Spring boot, Java SE 17 ve Mysql. Spring boot proje bağımlılıkları pom.xml mevcuttur.
  
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/WO9ASfo"  ><a href="//imgur.com/a/WO9ASfo">Backend</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![GitHub Images](./img/backend.png)
 
   Mysql bağlantıları için terminal açıp create database todolist yazın.
 
