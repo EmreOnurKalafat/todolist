@@ -8,6 +8,7 @@
 
  #Fronted
  React js kullanıldı, css kütüphanesi olarak bootsrap5'den yararlanıldı.
+ 
  ![DIŞ KAYNAK RESİM](https://imgur.com/gallery/oXDhS1f)
 
  Frontend Ayaklandırmak için 
@@ -19,6 +20,7 @@
 
  #Backend
  Spring boot, Java SE 17 ve Mysql. Spring boot proje bağımlılıkları pom.xml mevcuttur.
+ 
   ![DIŞ KAYNAK RESİM](https://imgur.com/gallery/WO9ASfo)
 
   Mysql bağlantıları için terminal açıp create database todolist yazın.
