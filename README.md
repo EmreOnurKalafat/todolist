@@ -9,7 +9,7 @@
  #Fronted
  React js kullanıldı, css kütüphanesi olarak bootsrap5'den yararlanıldı.
  
-![GitHub Images](./images/frontend.png)
+![GitHub Images](./img/frontend.png)
 
  Frontend Ayaklandırmak için 
  1-NodeJs yüklemelisiniz ve Npm yüklemelisiniz.
